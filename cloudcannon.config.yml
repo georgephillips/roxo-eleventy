@@ -10,6 +10,7 @@ collections_config:
     path: blog
     output: true
   portfolios:
+    icon: image
     path: portfolio
     output: true
   data:
