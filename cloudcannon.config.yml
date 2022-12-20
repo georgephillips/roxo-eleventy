@@ -15,7 +15,7 @@ collections_config:
     path: _data
     output: false
   pages:
-    path:
+    path: /
     output: true
     filter: strict
 
