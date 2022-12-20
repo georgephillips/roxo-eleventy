@@ -6,6 +6,7 @@
 # CloudCannon configuration specific to those collections.
 collections_config:
   blogpost:
+    icon: class
     path: blog
     output: true
   portfolios:
