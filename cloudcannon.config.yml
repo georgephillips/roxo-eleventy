@@ -13,6 +13,13 @@ collections_config:
     icon: image
     path: portfolio
     output: true
+    _inputs:
+      img:
+        type: image
+      featureImg1:
+        type: image
+      featureImg2:
+        type: image
   data:
     path: _data
     output: false
