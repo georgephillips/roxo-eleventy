@@ -22,6 +22,15 @@ collections_config:
 # Control which collections are displayed in the CloudCannon site navigation,
 # and how those collections are grouped.
 collection_groups:
+  - heading: Blogging
+    collections:
+      - pages
+      - blogpost
+      - portfolios
+  - heading: Other
+    collections:
+      - data
+
 
 # Set this to true to disable auto-detection of collections.
 collections_config_override: false
